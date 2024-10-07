@@ -15,4 +15,4 @@ A simple React application that allows users to enter their name and displays a 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/greeting-app.git
+  https://github.com/lind679/greetingS-react-lab3.git
